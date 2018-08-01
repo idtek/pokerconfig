@@ -1,0 +1,9 @@
+{
+  "HALL_SERVER": "219.129.216.103",
+  "HALL_PORT": 8300,
+  "HALL_CONFIG": "http://127.0.0.1/Tpapi/public/port/user/readjson?cmd=902",
+  "SUBGAME_SERVER": "http://127.0.0.1/Tpapi/ayqp_config/",
+  "IS_VERIFY": 0,
+  "IS_USE_IAP": 0,
+  "TIME": 201807172002
+}
